@@ -1,0 +1,33 @@
+{
+  "app_id": "pbhub.war.2.kaisen",
+  "app_name": "PB海戦2",
+  "developer": {
+    "name": "devtangle",
+    "website": "https://sites.google.com/view/pballhub/home",
+    "github": "https://github.com/PolandBallHub-Operator"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-05-04",
+    "last_updated": "2026-05-04"
+  },
+  "description": {
+    "short": "一人でも、ふたりでも遊べるお手軽戦艦バトル！",
+    "full": "PBhubのシンプルブラウザゲーの「CountryBall海戦1」の後継！操作はシンプルだが奥が深い。PBhubAI当選者はAIキーをコピーしておこう！"
+  },
+  "links": {
+    "app_url": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbkaisenwwii/refs/heads/main/images/icon-512.png",
+    "manifest_url": ""
+  },
+  "metadata": {
+    "category": "Games",
+    "tags": [
+      "PWA"
+    ],
+    "license": "Foss"
+  },
+  "assets": {
+    "icon": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbkaisenwwii/refs/heads/main/images/icon-512.png",
+    "screenshots": []
+  }
+}
